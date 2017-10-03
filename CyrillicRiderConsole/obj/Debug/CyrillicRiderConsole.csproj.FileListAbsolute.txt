@@ -1,0 +1,8 @@
+C:\VsProjects\CyrillicRiderConsole\CyrillicRiderConsole\bin\Debug\CyrillicRiderConsole.exe.config
+C:\VsProjects\CyrillicRiderConsole\CyrillicRiderConsole\bin\Debug\CyrillicRiderConsole.exe
+C:\VsProjects\CyrillicRiderConsole\CyrillicRiderConsole\bin\Debug\CyrillicRiderConsole.pdb
+C:\VsProjects\CyrillicRiderConsole\CyrillicRiderConsole\bin\Debug\Newtonsoft.Json.dll
+C:\VsProjects\CyrillicRiderConsole\CyrillicRiderConsole\obj\Debug\CyrillicRiderConsole.csprojResolveAssemblyReference.cache
+C:\VsProjects\CyrillicRiderConsole\CyrillicRiderConsole\obj\Debug\CyrillicRiderConsole.csproj.CoreCompileInputs.cache
+C:\VsProjects\CyrillicRiderConsole\CyrillicRiderConsole\obj\Debug\CyrillicRiderConsole.exe
+C:\VsProjects\CyrillicRiderConsole\CyrillicRiderConsole\obj\Debug\CyrillicRiderConsole.pdb
